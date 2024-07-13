@@ -1,0 +1,18 @@
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\bin\Debug\net6.0-windows\Particle Simulator.exe
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\bin\Debug\net6.0-windows\Particle Simulator.deps.json
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\bin\Debug\net6.0-windows\Particle Simulator.runtimeconfig.json
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\bin\Debug\net6.0-windows\Particle Simulator.dll
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\bin\Debug\net6.0-windows\Particle Simulator.pdb
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.csproj.AssemblyReference.cache
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle_Simulator.Form1.resources
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.csproj.GenerateResource.cache
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.AssemblyInfoInputs.cache
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.AssemblyInfo.cs
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.csproj.CoreCompileInputs.cache
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.dll
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\refint\Particle Simulator.dll
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.pdb
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.genruntimeconfig.cache
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\ref\Particle Simulator.dll
+C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle_Simulator.Particle.resources

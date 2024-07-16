@@ -4,7 +4,6 @@ C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulat
 C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\bin\Debug\net6.0-windows\Particle Simulator.dll
 C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\bin\Debug\net6.0-windows\Particle Simulator.pdb
 C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.csproj.AssemblyReference.cache
-C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle_Simulator.Form1.resources
 C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.csproj.GenerateResource.cache
 C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jackk\Desktop\Important\Programming\Particle-Simulator\Particle Simulator\Particle Simulator\obj\Debug\net6.0-windows\Particle Simulator.AssemblyInfoInputs.cache

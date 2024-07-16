@@ -144,7 +144,7 @@
             trackBar4.LargeChange = 0;
             trackBar4.Location = new Point(998, 67);
             trackBar4.Maximum = 760;
-            trackBar4.Minimum = 100;
+            trackBar4.Minimum = 300;
             trackBar4.Name = "trackBar4";
             trackBar4.Size = new Size(104, 45);
             trackBar4.TabIndex = 14;
